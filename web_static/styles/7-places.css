@@ -1,0 +1,21 @@
+.places h1 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-size: 30px;
+}
+
+.places article {
+	width: 390px;
+	border: 1px #FF5A5F;
+	border-radius: 4px;
+	padding: 20px;
+	margin: 20px;
+}
+
+.places .h2 {
+	font-size: 30px;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+}
